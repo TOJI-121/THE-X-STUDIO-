@@ -47,4 +47,4 @@ This project can be deployed on Vercel, Netlify, or any Node.js hosting provider
 
 📄 License
 
-(Choose license type, if available — e.g., MIT)
+THE X Studio
