@@ -13,19 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Orchids | Code Crafted",
+  title: "THEXSTUDIO | Code Crafted",
   description: "Personal portfolio crafting modern, high-performance websites that convert, engage, and elevate your brand. Custom website design, frontend development, and deployment optimization.",
   keywords: ["web design", "frontend development", "React", "Next.js", "website development", "India"],
-  authors: [{ name: "Orchids" }],
+  authors: [{ name: "THEXSTUDIO" }],
   openGraph: {
-    title: "Orchids | Code Crafted",
+    title: "THEXSTUDIO | Code Crafted",
     description: "Personal portfolio crafting modern, high-performance websites that convert, engage, and elevate your brand.",
     type: "website",
-    locale: "en_US",
+    locale: "IST",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Orchids | Code Crafted",
+    title: "THEXSTUDIO | Code Crafted",
     description: "Personal portfolio crafting modern, high-performance websites that convert, engage, and elevate your brand.",
   },
   icons: {
